@@ -68,7 +68,8 @@ class App:
 
         self.result_text.delete(1.0, tk.END)
         self.result_text.insert(tk.END, result_text)
-
+  
+  
 if __name__ == "__main__":
     root = tk.Tk()
     app = App(root)

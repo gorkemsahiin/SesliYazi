@@ -19,7 +19,8 @@ class Recorder:
                                   rate=self.fs,
                                   frames_per_buffer=self.chunk,
                                   input=True)
-
+ 
+ 
         print("Kayıt Başladı..!")
         self.recording = True  
 
