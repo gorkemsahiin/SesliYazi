@@ -1,1 +1,2 @@
-# SesliYazi
+# SESL YAZI
+# CREATED BY GÖRKEM ŞAHİN
